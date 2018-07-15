@@ -2,6 +2,7 @@
 ## ss folder
 [init_server.sh](https://github.com/honorinli151/bash_scripts/blob/master/ss/init_server.sh)
 is a bash script for initializing a new shadowsocks server.
+
 *Note: Please make an config json file and put it in /etc/shadowsocks.json, format of this json is below.*
 ```json
 {
@@ -19,4 +20,4 @@ is a bash script for initializing a new shadowsocks server.
 TODO Json File modifier.
 
 ## ssh folder
-TODO Add Varnamecd 
+TODO Add Varnamecd
