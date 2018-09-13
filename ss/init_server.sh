@@ -4,8 +4,8 @@
 # @Date:   2018-7-15 10:52:15
 # @Email:  chenle.li@student.ecp.fr
 # @Filename: init_server.sh
-# @Last modified by:   chenleli
-# @Last modified time: 2018-7-15 12:31:49
+# @Last modified by:   lichenle
+# @Last modified time: 2018-7-24 21:43:56
 
 while getopts "a:"; do
   case $opt in
