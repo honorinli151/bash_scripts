@@ -3,7 +3,7 @@
 [init_server.sh](https://github.com/honorinli151/bash_scripts/blob/master/ss/init_server.sh)
 is a bash script for initializing a new shadowsocks server.
 
-*Note: Please make an config json file and put it in /etc/shadowsocks.json, format of this json is below.*
+*Note: Please fill out the json file and put it in the folder /etc.*
 ```json
 {
     "server":"Your server IP",
@@ -18,4 +18,6 @@ is a bash script for initializing a new shadowsocks server.
 }
 ```
 ## ssh folder
-TODO Add Varnamecd
+### init.sh 
+A bash for intializing a VPS server to your computer.
+TODO: add varname.
