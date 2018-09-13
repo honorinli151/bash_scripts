@@ -1,0 +1,28 @@
+/*
+ * File: /Users/lichenle/dump/news_stock/bash_scripts/shadowsocks.json
+ * Project: /Users/lichenle/dump/news_stock/bash_scripts
+ * Created Date: Thursday September 13th 2018
+ * Author: Chenle Li
+ * -----
+ * Last Modified: 2018-09-13 04:57:37
+ * Modified By: Chenle Li at <chenle.li@student.ecp.fr>
+ * -----
+ * Copyright (c) 2018 Chenle Li
+ * -----
+ * HISTORY:
+ * Date               	  By     	Comments
+ * -------------------	---------	---------------------------------------------------------
+ * 2018-09-13 04:57:23	Chenle Li	File Created
+ */
+
+ {
+    "server":"Your server IP",
+    "server_port": 1080,
+    "local_address": "127.0.0.1",
+    "local_port":1080,
+    "password":"Your password",
+    "timeout":600,
+    "method":"aes-256-cfb",
+    "fast_open": false,
+    "workers": 1
+}

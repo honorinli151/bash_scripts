@@ -17,7 +17,5 @@ is a bash script for initializing a new shadowsocks server.
     "workers": 1
 }
 ```
-TODO Json File modifier.
-
 ## ssh folder
 TODO Add Varnamecd
