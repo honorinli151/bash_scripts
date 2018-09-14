@@ -20,4 +20,4 @@ is a bash script for initializing a new shadowsocks server.
 ## ssh folder
 ### init.sh 
 A bash for intializing a VPS server to your computer.
-TODO: add varname.
+TODO: add varname
