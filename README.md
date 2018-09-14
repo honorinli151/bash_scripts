@@ -21,3 +21,7 @@ is a bash script for initializing a new shadowsocks server.
 ### init.sh 
 A bash for intializing a VPS server to your computer.
 TODO: add varname
+## wordpress folder
+TODO incremental.
+## docker folder
+Automate docker installation.
